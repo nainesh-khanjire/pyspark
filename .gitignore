@@ -1,8 +1,10 @@
 /venv
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+*ipynb_checkpoints*
 /.ipynb_checkpoints
 src/.ipynb_checkpoints/1spark-checkpoint.ipynb
 src/.ipynb_checkpoints/1spark-checkpoint.ipynb
 */.venv*
 .vscode/settings.json
+*venv*
